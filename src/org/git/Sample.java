@@ -7,4 +7,10 @@ public class Sample {
 
 	}
 
+	private void student2() {
+
+		System.out.println("fafa");
+
+	}
+
 }
