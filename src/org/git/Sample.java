@@ -8,6 +8,7 @@ public class Sample {
 	}
 
 	private void student2() {
+<<<<<<< HEAD
 		System.out.println("fafa");
 
 	}
@@ -19,5 +20,11 @@ public class Sample {
 		System.out.println("Rolex");
 
 	}
+=======
+
+		System.out.println("fafa");
+
+	}
+>>>>>>> c7f81a96c637fe36ba9115a4835ddf0745a8cdb2
 
 }
